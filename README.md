@@ -32,7 +32,7 @@ Designed and configured a multi-VLAN enterprise network using a Layer 3 switch i
 ![Topology](Topology.png)
 
 ### VLAN Configuration and Ip Interface
-![VLAN](vlan,ip.png)
+![VLAN](vlan:ip.png)
 
 ### DHCP Configuration
 ![DHCP](DHCP.png)
